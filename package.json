@@ -22,12 +22,12 @@
     "travis": "opn https://travis-ci.org/escaladesports/react-hubspot-form/branches"
   },
   "devDependencies": {
-    "esca-scripts": "^0.13.1",
-    "opn-cli": "^3.1.0",
-    "react": "^16.1.1",
-    "react-dom": "^16.1.1"
+    "esca-scripts": "^1.5.4",
+    "opn-cli": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
-    "styled-jsx": "^2.2.4"
+    "styled-jsx": "^5.1.1"
   }
 }
